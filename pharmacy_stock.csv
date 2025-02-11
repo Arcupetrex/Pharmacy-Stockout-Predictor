@@ -1,0 +1,101 @@
+drug_name,stock_level,sales_per_week
+Paracetamol,150,30
+Ibuprofen,180,35
+Aspirin,120,25
+Amoxicillin,100,20
+Ciprofloxacin,90,15
+Metformin,200,40
+Atorvastatin,175,30
+Lisinopril,160,20
+Amlodipine,140,18
+Omeprazole,130,22
+Simvastatin,150,25
+Losartan,120,20
+Gabapentin,100,18
+Hydrochlorothiazide,110,15
+Metoprolol,130,20
+Citalopram,140,18
+Prednisone,90,12
+Furosemide,80,10
+Levothyroxine,100,20
+Sertraline,120,22
+Alprazolam,70,10
+Clopidogrel,100,15
+Doxycycline,80,12
+Zolpidem,60,8
+Montelukast,90,10
+Escitalopram,110,15
+Tramadol,70,9
+Allopurinol,100,14
+Rosuvastatin,120,16
+Fluoxetine,130,20
+Pantoprazole,140,18
+Cetirizine,150,25
+Diphenhydramine,100,15
+Ranitidine,90,10
+Dexamethasone,80,8
+Cyclobenzaprine,70,7
+Meloxicam,100,12
+Naproxen,110,15
+Diclofenac,120,18
+Loratadine,130,20
+Clonazepam,70,8
+Bupropion,80,10
+Warfarin,90,12
+Insulin,200,40
+Sitagliptin,150,20
+Pravastatin,130,18
+Bisoprolol,110,15
+Vildagliptin,100,14
+Glipizide,90,12
+Pioglitazone,80,10
+Folic Acid,150,30
+Vitamin B12,160,35
+Vitamin D3,170,30
+Calcium Carbonate,180,25
+Magnesium Oxide,190,20
+Zinc Sulfate,200,30
+Iron Supplement,150,20
+Alendronate,140,15
+Dicloxacillin,130,12
+Cephalexin,120,10
+Erythromycin,110,10
+Clarithromycin,100,8
+Azithromycin,90,7
+Nystatin,80,5
+Fluconazole,70,5
+Loperamide,150,25
+Orlistat,140,20
+Metronidazole,130,15
+Rifaximin,120,12
+Miconazole,110,10
+Baclofen,100,8
+Sildenafil,90,7
+Tadalafil,80,6
+Zopiclone,70,5
+Esomeprazole,150,20
+Rabeprazole,140,18
+Chlorpheniramine,130,15
+Dimenhydrinate,120,10
+Promethazine,110,10
+Salbutamol,100,15
+Fluticasone,90,12
+Budesonide,80,10
+Formoterol,70,8
+Ipratropium,60,6
+Vitamin C,170,35
+Multivitamin,160,30
+Propranolol,150,25
+Spironolactone,140,20
+Omeprazole Magnesium,130,15
+Carvedilol,120,12
+Fluocinolone,110,10
+Ketoconazole,100,8
+Hydrocortisone,90,7
+Betamethasone,80,6
+Oxycodone,70,5
+Morphine,60,5
+Codeine,50,4
+Methotrexate,100,10
+Azathioprine,90,8
+Cyclosporine,80,7
